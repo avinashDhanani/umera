@@ -1,0 +1,12 @@
+.item-container{
+    display: flex;
+    overflow: scroll;
+    overflow-y: hidden;
+}
+.listcontainer{
+    width: 90vw;
+    margin: 10px auto;
+    padding: 10px;
+    background-color: white;
+    border-radius: 20px;
+}

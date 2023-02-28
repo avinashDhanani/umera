@@ -1,0 +1,33 @@
+.viewproduct-main-container{
+    margin: 100px auto;
+    border:1px solid gray;
+    width: 600px;
+    height: 400px;
+    padding: 20px;
+    border-radius: 30px;
+    display: flex;
+}
+.description-view-product{
+    height: 130px;
+    overflow: scroll;
+}
+.main-image-container-view-product{
+    margin-right: 10px;
+
+}
+.big-image-container-view-product{
+    height: 270px;
+    margin: auto;
+}
+
+.small-image-div-container-view-product{
+    margin: "2px";
+    border: "1px solid black";
+}
+.small-image-div-container-view-product :hover{
+    box-shadow: 2px 2px black;
+}
+p{
+    margin: 0px;
+    padding: 0px;
+}
